@@ -3,7 +3,7 @@
 repository ini merupakan dokumentasi dari Frontend dan juga Backend dari website portfolio yang akan digunakan dalam beberapa waktu kedepan, oleh karena itu berikut ini dilampirkan juga link repository dari masing-masing bagian 
 
 - **Backend** <br/>
-    https://github.com/benayajosuaa/Backend-Portfolio
+    on going !
     
 - **Frontend** <br/>
     https://github.com/benayajosuaa/Frontend-Portfolio
