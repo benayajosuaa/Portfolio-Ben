@@ -8,6 +8,8 @@ repository ini merupakan dokumentasi dari Frontend dan juga Backend dari website
 - **Frontend** <br/>
     https://github.com/benayajosuaa/Frontend-Portfolio
 
+sementara itu untuk code deployment, dibutuhkan butuhkan beberapa perubahan sedikit mengenai logic dan juga struktur code yang ada sehingga dibedakan sendiri repository-nya. untuk repository deployment bisa dilihat dengan klik [link berikut ini](https://github.com/benayajosuaa/Portfolio-Ben/blob/main/Deploy.md)
+
 <br/>
 
 ### __Identitas__
